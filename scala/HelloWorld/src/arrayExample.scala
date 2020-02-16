@@ -1,0 +1,3 @@
+object arrayExample extends App
+
+}
